@@ -10,7 +10,7 @@
 // Made By: fuck you faggot its magnum dong time
 // yeeyee
 // How to use: Make an account, sign in all that fun stuff, then go to the categories and click multiplacation tables
-// Then go to the console of your web browser and paste the code in the console and enjoy liams fat magnum dong always pressing the right answer
+// Then go to the console of your web browser and paste the code in the console and enjoy liams fat magnum dong always pressing the right answer.
 const interval = setInterval(function() {
     var problem = document.getElementsByClassName("card-title");
     for (var i = 0; i < problem.length; i++) {
