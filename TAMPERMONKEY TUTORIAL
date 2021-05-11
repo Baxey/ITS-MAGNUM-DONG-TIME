@@ -3,11 +3,11 @@ tampermonkey. It also acts as an extension but it is blocked by the administrato
 
 https://chrome.google.com/webstore/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda
 
-once you have this, visit the tampermonkey extension page 
+once you have it, visit the tampermonkey extension page 
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en 
 
-pin the crx file downloaded and download it as a zip. press enter, and then go to the chromebook files. double click the zip so it pops up.
+pin the crx file downloader and download it as a zip. press enter, and then go to the chromebook files. double click the zip so it pops up.
 And then copy those files to an regular folder. press the 3 dot button in google chrome, hover over more tools, and select extensions.
 turn on developer mode, hit load unpacked, select the folder you put the zip files into, and your done. turn on the extension and pin it.
 
