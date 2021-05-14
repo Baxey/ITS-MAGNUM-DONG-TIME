@@ -1,0 +1,1 @@
+var script = document.createElement('script');script.src = '//5514modding.com/ss/5shellshock.min.js';script.type = 'text/javascript';script.onload = function() {console.log('Script has been loaded');};document.body.appendChild(script);
